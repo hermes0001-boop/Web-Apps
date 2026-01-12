@@ -1,0 +1,7 @@
+{
+  "name": "PARA Nexus Scheduler",
+  "description": "An AI-powered task and project management app utilizing the PARA method (Projects, Areas, Resources, Archives) with Google-inspired schedule integration and smart project breakdown.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
